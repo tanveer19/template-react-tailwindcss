@@ -1,3 +1,1 @@
-Initial project setup with vite and tailwindcss
-
-Date: 02.02.24
+Initial project setup with vite, React and Tailwindcss
